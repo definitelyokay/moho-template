@@ -4,6 +4,8 @@ A template for saving Moho files in a git repo. Moho files are tracked as binary
 
 [Forum post](https://www.lostmarble.com/forum/viewtopic.php?t=33865) for this repository.
 
+Perhaps you're looking for [hard-to-find Moho documentation](https://github.com/definitelyokay/moho-docs)?
+
 Moho files aren't merge-compatible. If multiple people need to work on the same file, they need to take turns and coordinate on their own.
 
 ## Project Setup

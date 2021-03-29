@@ -1,4 +1,4 @@
-# Moho Power User Project
+# Moho Project Template
 
 A template for saving Moho files in a git repo. Moho files are tracked as binary files.
 

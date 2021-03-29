@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"streetsidesoftware.code-spell-checker",
+		"CoenraadS.bracket-pair-colorizer-2",
+		"eamodio.gitlens",
+		"shd101wyy.markdown-preview-enhanced",
+		"fcrespo82.markdown-table-formatter",
+		"christian-kohler.path-intellisense"
+	]
+}

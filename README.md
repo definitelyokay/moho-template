@@ -113,6 +113,14 @@ The rendered area was 10% larger on all sides than the actual video to be made t
 
 Colors were created using Moho styles. Character model themes were applied by executing scripts that changed the colors used by the styles.
 
+### Palettes / Swatches
+
+You can put custom palettes in your Moho custom content directory's `swatches` folder. 
+
+To make these palettes the default ones, Tell Moho to hide the built-in palettes by navigating to `Swatches` in the styles window and selecting `Hide Factory Swatches`:
+
+![Swatches->Hide Factory Swatches](doc/assets/palettes.png)
+
 #### Timeline and Color Coding
 
 Moho doesn't show all timeline channels by default. This can be configured via `View -> Timeline Channels`.
